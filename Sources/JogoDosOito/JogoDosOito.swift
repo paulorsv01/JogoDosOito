@@ -1,6 +1,13 @@
-public struct JogoDosOito {
-    public private(set) var text = "Hello, World!"
+//
+//  File.swift
+//  
+//
+//  Created by Paulo Vieira on 28/02/22.
+//
 
-    public init() {
-    }
+import Foundation
+
+func main() {
+    print("Hello, world!")
 }
+
